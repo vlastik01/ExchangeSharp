@@ -1,4 +1,4 @@
-I have forked it to explore it and make posiibly changes 
+##I have forked it to explore it and make possibly changes 
 
 <img src='logo.png' width='600' alt="Project's logo" />
 
