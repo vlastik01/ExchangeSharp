@@ -1,3 +1,5 @@
+I have forked it to explore it and make posiibly changes 
+
 <img src='logo.png' width='600' alt="Project's logo" />
 
 [![Build Status](https://dev.azure.com/DigitalRuby/DigitalRuby/_apis/build/status/jjxtra_ExchangeSharp?branchName=master)](https://dev.azure.com/DigitalRuby/DigitalRuby/_build/latest?definitionId=5&branchName=master) [![NuGet](https://img.shields.io/nuget/dt/DigitalRuby.ExchangeSharp.svg)][nuget]
